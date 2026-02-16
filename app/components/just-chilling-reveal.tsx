@@ -16,7 +16,7 @@ export function JustChillingReveal() {
       {/* Khajoor image */}
       <div className="w-48 h-48 md:w-64 md:h-64 relative">
         <Image
-          src="/assets/khajoor.png"
+          src="/assets/Khajoor.png"
           alt="Date Khajoor"
           fill
           className="rounded-xl shadow-lg object-cover"
