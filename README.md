@@ -38,7 +38,7 @@ This is purely a **fun project** built to experiment with interactive UI and ani
 
 ```bash
 git clone https://github.com/SafaMaqbool/valentines-website-parody.git
-cd valentines-website-parody/my-app
+cd valentines-website-parody
 ```
 
 ### 2️⃣ Install dependencies
